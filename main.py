@@ -1,0 +1,2 @@
+def shalome():
+  print('shalome')
